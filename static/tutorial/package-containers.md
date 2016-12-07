@@ -18,6 +18,7 @@ Here are some situations
 that [containers](https://www.stackage.org/lts/package/containers) package can
 be of help. It provides efficient implementation of some of the most commonly
 used containers used in programming:
+
 * `Data.Set` - you care about uniqueness and possibly the order of elements.
 * `Data.Map` - you need a mapping from unique keys to values and operations you
   perform can take advantage of ordering of keys.
